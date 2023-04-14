@@ -1,0 +1,12 @@
+C:\Users\Banuka Ambegoda\Desktop\bambegoda_Test3\bambegoda_Test3\BMIClassLibrary\bin\Debug\net7.0\BMIClassLibrary.deps.json
+C:\Users\Banuka Ambegoda\Desktop\bambegoda_Test3\bambegoda_Test3\BMIClassLibrary\bin\Debug\net7.0\BMIClassLibrary.dll
+C:\Users\Banuka Ambegoda\Desktop\bambegoda_Test3\bambegoda_Test3\BMIClassLibrary\bin\Debug\net7.0\BMIClassLibrary.pdb
+C:\Users\Banuka Ambegoda\Desktop\bambegoda_Test3\bambegoda_Test3\BMIClassLibrary\obj\Debug\net7.0\BMIClassLibrary.csproj.AssemblyReference.cache
+C:\Users\Banuka Ambegoda\Desktop\bambegoda_Test3\bambegoda_Test3\BMIClassLibrary\obj\Debug\net7.0\BMIClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Banuka Ambegoda\Desktop\bambegoda_Test3\bambegoda_Test3\BMIClassLibrary\obj\Debug\net7.0\BMIClassLibrary.AssemblyInfoInputs.cache
+C:\Users\Banuka Ambegoda\Desktop\bambegoda_Test3\bambegoda_Test3\BMIClassLibrary\obj\Debug\net7.0\BMIClassLibrary.AssemblyInfo.cs
+C:\Users\Banuka Ambegoda\Desktop\bambegoda_Test3\bambegoda_Test3\BMIClassLibrary\obj\Debug\net7.0\BMIClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Banuka Ambegoda\Desktop\bambegoda_Test3\bambegoda_Test3\BMIClassLibrary\obj\Debug\net7.0\BMIClassLibrary.dll
+C:\Users\Banuka Ambegoda\Desktop\bambegoda_Test3\bambegoda_Test3\BMIClassLibrary\obj\Debug\net7.0\refint\BMIClassLibrary.dll
+C:\Users\Banuka Ambegoda\Desktop\bambegoda_Test3\bambegoda_Test3\BMIClassLibrary\obj\Debug\net7.0\BMIClassLibrary.pdb
+C:\Users\Banuka Ambegoda\Desktop\bambegoda_Test3\bambegoda_Test3\BMIClassLibrary\obj\Debug\net7.0\ref\BMIClassLibrary.dll

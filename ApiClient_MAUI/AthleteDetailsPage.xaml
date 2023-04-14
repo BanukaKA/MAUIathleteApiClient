@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:m="clr-namespace:ApiClient_MAUI.Models"
+             x:Class="ApiClient_MAUI.AthleteDetailsPage"
+             Title="Athlete Details">
+    <ScrollView x:Name="ArtworkScrollView" Orientation="Vertical" VerticalOptions="FillAndExpand">
+        <StackLayout Orientation="Vertical" VerticalOptions="Start" HorizontalOptions="FillAndExpand">
+            <Grid Padding="10" ColumnDefinitions="Auto,*" RowDefinitions="Auto,Auto,Auto,Auto,Auto,Auto,Auto,Auto,Auto,Auto" RowSpacing="10" Margin="20,0,20,0" ColumnSpacing="10">
+                <Label Text="First Name:" VerticalOptions="Center" />
+                <Entry x:Name="txtFName" Text="{Binding FirstName}" Grid.Column="1" Grid.Row="0" IsReadOnly="True" VerticalOptions="Center"/>
+
+                <Label Text="Last Name:" VerticalOptions="Center" Grid.Row="1" />
+                <Entry x:Name="txtLName" Text="{Binding LastName}" Grid.Column="1" Grid.Row="1" IsReadOnly="True" VerticalOptions="Center"/>
+
+                <Label Text="Middle Name:" VerticalOptions="Center" Grid.Row="2" />
+                <Entry x:Name="txtMName" Text="{Binding MiddleName}" Grid.Column="1" Grid.Row="2" IsReadOnly="True" VerticalOptions="Center"/>
+
+                <Label Text="Sport:" VerticalOptions="Center" Grid.Row="3" />
+                <Entry x:Name="txtSport" Text="{Binding Sport.Name}" Grid.Column="1" Grid.Row="3" IsReadOnly="True" VerticalOptions="Center"/>
+
+                <Label Text="Birthday:" VerticalOptions="Center" Grid.Row="4" />
+                <Entry x:Name="txtDOB" Text="{Binding DOB}" Grid.Column="1" Grid.Row="4" IsReadOnly="True" VerticalOptions="Center"/>
+
+                <Label Text="Age:" VerticalOptions="Center" Grid.Row="5" />
+                <Entry x:Name="txtAge" Text="{Binding Age}" Grid.Column="1" Grid.Row="5" IsReadOnly="True" VerticalOptions="Center"/>
+
+                <Label Text="Height:" VerticalOptions="Center" Grid.Row="6" />
+                <Entry x:Name="txtHeight" Text="{Binding Height}" Grid.Column="1" Grid.Row="6" IsReadOnly="True" VerticalOptions="Center"/>
+
+                <Label Text="Weight:" VerticalOptions="Center" Grid.Row="7" />
+                <Entry x:Name="txtWeight" Text="{Binding Weight}" Grid.Column="1" Grid.Row="7" IsReadOnly="True" VerticalOptions="Center"/>
+
+                <Label Text="BMI:" VerticalOptions="Center" Grid.Row="8" />
+                <Entry x:Name="txtBMI" Grid.Column="1" Grid.Row="8" IsReadOnly="True" VerticalOptions="Center"/>
+
+                <Label Text="BMI Status:" VerticalOptions="Center" Grid.Row="9" />
+                <Entry x:Name="txtBMIstatus" Grid.Column="1" Grid.Row="9" IsReadOnly="True" VerticalOptions="Center"/>
+
+            </Grid>
+        </StackLayout>
+    </ScrollView>
+</ContentPage>

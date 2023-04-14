@@ -1,0 +1,1 @@
+C:\Users\Banuka Ambegoda\Desktop\bambegoda_Test3\bambegoda_Test3\ApiClient_MAUI\ApiClient_MAUI.csproj;x64
